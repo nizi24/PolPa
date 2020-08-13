@@ -40,11 +40,11 @@ https://polpa.work
 
 ## :computer: Version
 
-Ruby: 2.7.1  
-Rails 6.0.3.2
-@nuxt/cli v2.13.1
-Docker 19.03.8
-docker-compose 1.2.5
+- Ruby: 2.7.1  
+- Rails 6.0.3.2
+- @nuxt/cli v2.13.1
+- Docker 19.03.8
+- docker-compose 1.2.5
 
 ## 👀 Author
 
