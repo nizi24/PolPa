@@ -33,3 +33,21 @@ https://polpa.work
 
 - レスポンシブデザイン
 <img src="https://user-images.githubusercontent.com/62362974/89744410-9af0e300-dae7-11ea-8622-32aa61e50b35.PNG" width="25%" />
+
+- ER
+
+![polpa](https://user-images.githubusercontent.com/62362974/89768263-57719580-db36-11ea-9a23-bc6b1a49d0f8.png)
+
+## :computer: Version
+
+Ruby: 2.7.1  
+Rails 6.0.3.2
+@nuxt/cli v2.13.1
+Docker 19.03.8
+docker-compose 1.2.5
+
+## 👀 Author
+
+Yuki Horikoshi
+- [Twitter](https://twitter.com/nizi_24a)
+- [Qiita](https://qiita.com/nizi24)
