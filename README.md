@@ -48,6 +48,5 @@ https://polpa.work
 
 ## 👀 Author
 
-Yuki Horikoshi
 - [Twitter](https://twitter.com/nizi_24a)
 - [Qiita](https://qiita.com/nizi24)
