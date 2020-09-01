@@ -1,7 +1,5 @@
 # PolPa
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nizi24)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![recording](https://user-images.githubusercontent.com/62362974/89744155-303ea800-dae5-11ea-8497-06493a52e939.gif)
 
 ## :sparkler: Overview
